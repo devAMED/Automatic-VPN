@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+auth.txt
+configs/*.ovpn
+configs/openvpn.log
